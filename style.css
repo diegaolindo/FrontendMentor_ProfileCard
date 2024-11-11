@@ -1,0 +1,57 @@
+
+body {
+    background-color: #41CBD3;
+}
+
+main .perfil-conteiner {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px 10px 10px 10px;
+}
+
+main .perfil-conteiner h1 {
+    font-size: 1.2em;
+}
+
+main .perfil-conteiner span{
+    padding-left: 5px;
+    color: gray;
+    font-weight: normal;
+}
+
+main .perfil-conteiner p {
+    color: gray;
+}
+
+main #img-back {
+    position: absolute;
+    border-radius: 10px 10px 0px 0px;
+}
+
+main #img-vic {
+    border-radius: 50%;
+    border: solid white;
+    position: relative;
+    margin-left: 150px;
+    margin-top: 110px;
+    margin-right: 200px;
+}
+
+main .infos {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+main .infos th {
+    font-size: 1.6em;
+    width: 300px;
+}
+
+main .infos td {
+    font-size: 0.9em;
+    width: 130px;
+}
